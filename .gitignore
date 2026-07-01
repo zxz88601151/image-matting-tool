@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+matting_tool.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project runtime
+.workbuddy/
