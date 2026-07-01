@@ -23,25 +23,7 @@ A desktop application for AI-powered background removal and green-screen composi
 
 ## Screenshot / 界面截图
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│                     Image Matting Tool                        │
-├──────────────────────────┬───────────────────────────────────┤
-│       Original           │           Processed                │
-│    ┌──────────────┐      │       ┌──────────────────┐        │
-│    │              │      │       │   (transparent)   │        │
-│    │   (image)    │      │       │  ┌────────────┐   │        │
-│    │              │      │       │  │  subject   │   │        │
-│    └──────────────┘      │       │  │  remains   │   │        │
-│                          │       │  │  bg removed│   │        │
-│                          │       │  └────────────┘   │        │
-│                          │       └──────────────────┘        │
-├──────────────────────────┴───────────────────────────────────┤
-│  [edge refine: █████░░░░░ 50%] [✓ pre-enhance] [green color] │
-├──────────────────────────────────────────────────────────────┤
-│  [remove background] [add green screen]  [save]  [reset]     │
-└──────────────────────────────────────────────────────────────┘
-```
+![Image Matting Tool Screenshot](screenshot.png)
 
 ---
 
